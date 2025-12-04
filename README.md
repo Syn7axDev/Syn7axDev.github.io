@@ -1,2 +1,2 @@
-# Syn7ax
-Syn7ax website
+# Syn7ax website
+Сайт в разработке!
